@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Template for Typescript projects",
   "main": "src/index.ts",
+  "engines": {
+    "node": ">=18.16.0"
+  },
   "scripts": {
     "test": "jest ./test",
     "start": "tsx ./src/index.ts",
