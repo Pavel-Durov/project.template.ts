@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^29.7.0",
-    "ts-jest": "^29.1.3"
+    "ts-jest": "^29.2.4"
   },
   "devDependencies": {
     "@biomejs/biome": "1.1.2",
