@@ -18,7 +18,7 @@
   "author": "pavel@p3ld3v.dev",
   "license": "ISC",
   "dependencies": {
-    "jest": "^29.7.0",
+    "jest": "^30.0.0",
     "ts-jest": "^29.3.2"
   },
   "devDependencies": {
